@@ -1,37 +1,14 @@
-## Welcome to GitHub Pages
+## Cockpit APP for Fitbit
 
-You can use the [editor on GitHub](https://github.com/lzurutuza/lzurutuza.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+With Cockpit application you can turns your Versa into a speedometer, odometer and digital compass with altimeter. 
+It also shows weather information according to the current location. You can get travel statistics such a average speed, maximum speed, elapsed time and maximum altitude. You can get up 2 partial distances measurements. 
+It is an ideal tool to use when it is required to monitor values such as speed, distance traveled or simply use as a compass while traveling. Even if you are not doing a specific sport activity.
+It can be used as a backup navigation tool while riding a bike, running or hiking for example.
+This app requires the companion GPS and internet access to update the weather information (openweathermap.org free suscription is required).
+Support Metric and Imperial system of measurement.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+https://gallery.fitbit.com/details/7bdad603-63fa-4cb1-924c-8035e23bb368
 
-### Markdown
+### Help
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/lzurutuza/lzurutuza.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
