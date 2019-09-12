@@ -31,7 +31,7 @@ STATUS GREEN represents OK and RED is not communication with GPS.
 
 >![Image](btn_reset2.png)  Update weather information with Current Location (only visible in weather screen).  
 
->![Image](icn_battery.png)  Shows current battery charge level.
+>![Image](icn_battery.PNG)  Shows current battery charge level.
 
 ## MAIN SCREENS
 
