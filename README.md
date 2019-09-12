@@ -49,7 +49,7 @@ You can RESET values for partial DISTANCE1 and partial DISTANCE2 by pressing the
 
 3. COMPASS
 
-![Image](Cockpit_PRO_Compass.png)
+![Image](Cockpit_PRO_Compass.png)  
 Show total time, altitud and cardinal points with degress.  
 
 4. ORIENTATION
@@ -64,7 +64,7 @@ Show statistics information.
 
 6. WEATHER
 
-![Image](Cockpit_PRO_Weather.png)
+![Image](Cockpit_PRO_Weather.png)  
 Show weather information of current location. This information is obtained from OpenWeatherMap.org.
 
 ## CONFIGURATION SCREEN
