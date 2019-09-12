@@ -37,7 +37,7 @@ STATUS GREEN represents OK and RED is not communication with GPS.
 
 1. SPEED  
 
- >![Image](Cockpit_PRO_speed.png)  
+ >![Image](Cockpit_speed.png)  
 You can RESET values for AVERAGE SPEED and MAX SPEED by pressing the left part of the screen (over the first number) for max speed and right (over the last number) for average speed. 
  
 
