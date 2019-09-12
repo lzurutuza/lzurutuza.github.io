@@ -1,4 +1,4 @@
-(setq markdown-css-paths '("styles.css"))
+(setq markdown-css-paths("styles.css"))
 
 # Cockpit APP for Fitbit
 
