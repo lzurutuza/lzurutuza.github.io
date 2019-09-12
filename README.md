@@ -20,7 +20,7 @@ All screens has 3 common buttons and one icon:
 
 >![Image](Cockpit_PRO_speed.png)  
 
->![Image](icn_status_gps.png)  Icon Connection, represents the comunication between Versa and Companion GPS.
+>![Image](icn_status.png)  Icon Connection, represents the comunication between Versa and Companion GPS.
 STATUS GREEN represents OK and RED is not communication with GPS.  
 
 >![Image](btn_combo_conf_p.png)  Access Configuration Screen.  
