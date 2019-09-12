@@ -26,23 +26,23 @@ All screens has 3 common buttons:
 
 2. DISTANCE
 
-![Image](Cockpit_PRO_distance.png)
+![Image](Cockpit_PRO_Distance.png)
 
 3. COMPASS
 
-![Image](Cockpit_PRO_compass.png)
+![Image](Cockpit_PRO_Compass.png)
 
 4. ORIENTATION
 
-![Image](Cockpit_PRO_orientation.png)
+![Image](Cockpit_PRO_Orientation.png)
 
 5. STATISTICS
 
-![Image](Cockpit_PRO_statistics.png)
+![Image](Cockpit_PRO_Statistics.png)
 
 6. WEATHER
 
-![Image](Cockpit_PRO_weather.png)
+![Image](Cockpit_PRO_Weather.png)
 
 ## CONFIGURATION SCREEN
 
