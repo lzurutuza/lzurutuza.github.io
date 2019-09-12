@@ -23,7 +23,9 @@ STATUS GREEN represents OK and RED is not communication with GPS.
 >![Image](btn_combo_conf_p.png) Access Configuration Screen.  
 
 >![Image](btn_reset2.png) Update weather information with Current Location.  
+
 >![Image](btn_pantallaOff.png) Toggle screen Auto OFF ON / OFF.  
+
 >![Image](btn_combo_reset_p.png) Restart statistics counters.  
 
 ## MAIN SCREENS
