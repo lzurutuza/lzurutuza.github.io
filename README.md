@@ -1,3 +1,5 @@
+(setq markdown-css-paths '("styles.css"))
+
 # Cockpit APP for Fitbit
 
 With Cockpit application you can turns your Versa into a speedometer, odometer and digital compass with altimeter. 
@@ -6,21 +8,6 @@ It is an ideal tool to use when it is required to monitor values such as speed, 
 It can be used as a backup navigation tool while riding a bike, running or hiking for example.
 This app requires the companion GPS and internet access to update the weather information (openweathermap.org free suscription is required).
 Support Metric and Imperial system of measurement.
-
-Heading Identifiers:
-### Red text title {#identifier .red}
-
-Fenced Code Attributes:
-{.red .numberLines startFrom="1"}
-
-Inline Code Attributes:
-`red text`{.red}
-
-Bracketed Spans:
-[This is *some red text*]{.red}
-
-Link Attributes:
-![alt text](the.jpg){.center}
 
 [Cockpit App - Fitbit Link](https://gallery.fitbit.com/details/7bdad603-63fa-4cb1-924c-8035e23bb368)
 
