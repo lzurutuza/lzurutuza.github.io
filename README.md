@@ -11,6 +11,7 @@ Support Metric and Imperial system of measurement.
 
 [Cockpit App - Fitbit Link](https://gallery.fitbit.com/details/7bdad603-63fa-4cb1-924c-8035e23bb368)
 
+
 # Help
 
 ## COMMON BUTTONS and ICONS:
@@ -19,26 +20,30 @@ All screens has 3 common buttons and one icon:
 
 >![Image](Cockpit_PRO_speed.png)  
 
->![Image](icn_status_gps.png) `#f03c15` Icon Connection, represents the comunication between Versa and Companion GPS.
+>![Image](icn_status_gps.png)  Icon Connection, represents the comunication between Versa and Companion GPS.
 STATUS GREEN represents OK and RED is not communication with GPS.  
 
->![Image](btn_combo_conf_p.png) Access Configuration Screen.  
+>![Image](btn_combo_conf_p.png)  Access Configuration Screen.  
 
->![Image](btn_reset2.png) Update weather information with Current Location.  
+>![Image](btn_reset2.png)  Update weather information with Current Location.  
 
->![Image](btn_pantallaOff.png) Toggle screen Auto OFF ON / OFF.  
+>![Image](btn_pantallaOff.png)  Toggle screen Auto OFF ON / OFF.  
 
->![Image](btn_combo_reset_p.png) Restart statistics counters.  
+>![Image](btn_combo_reset_p.png)  Restart statistics counters.  
 
 ## MAIN SCREENS
 
 1. SPEED  
 
- ![Image](Cockpit_PRO_speed.png)
+ >![Image](Cockpit_PRO_speed.png)  
+You can RESET values for AVERAGE SPEED and MAX SPEED by pressing the left part of the screen (over the first number) for max speed and right (over the last number) for average speed. 
+ 
 
 2. DISTANCE
 
-![Image](Cockpit_PRO_Distance.png)
+>![Image](Cockpit_PRO_Distance.png)  
+You can RESET values for partial DISTANCE1 and partial DISTANCE2 by pressing the left part of the screen (over the first number) for max speed and right (over the last number) for average speed. Partial distance1 has 2 decimals and growth up to 99,99 km. Partial Distance2 has 3 decimals and growth up to 9,999 km. 
+
 
 3. COMPASS
 
