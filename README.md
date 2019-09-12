@@ -43,26 +43,31 @@ You can RESET values for AVERAGE SPEED and MAX SPEED by pressing the left part o
 
 2. DISTANCE
 
->![Image](Cockpit_PRO_Distance.png)  
+>![Image](Cockpit_Distance.png)  
 You can RESET values for partial DISTANCE1 and partial DISTANCE2 by pressing the left part of the screen (over the first number) for max speed and right (over the last number) for average speed. Partial distance1 has 2 decimals and growth up to 99,99 km. Partial Distance2 has 3 decimals and growth up to 9,999 km. 
 
 
 3. COMPASS
 
 ![Image](Cockpit_PRO_Compass.png)
+Show total time, altitud and cardinal points with degress.  
 
 4. ORIENTATION
 
-![Image](Cockpit_PRO_Orientation.png)
+![Image](Cockpit_PRO_Orientation.png)  
+Show cardinal point and degress.
 
 5. STATISTICS
 
-![Image](Cockpit_PRO_Statistics.png)
+![Image](Cockpit_PRO_Statistics.png)  
+Show statistics information.
 
 6. WEATHER
 
 ![Image](Cockpit_PRO_Weather.png)
+Show weather information of current location. This information is obtained from OpenWeatherMap.org.
 
 ## CONFIGURATION SCREEN
 
-![Image](Cockpit_PRO_cfg.png)
+![Image](Cockpit_PRO_cfg.png)  
+In this screen you can configure the units: Metric or Imperial and activate _*SPEED ALERT*_. When speed alert is activated, Versa will vibrate and Speed numbers will change from green to RED color. 
