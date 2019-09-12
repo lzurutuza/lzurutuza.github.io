@@ -11,5 +11,5 @@ Support Metric and Imperial system of measurement.
 
 ### Help
 
- ![Image](Cockpit_v2-screenshot (4).png)
+ ![Image](Cockpit_PRO_speed.png)
 
