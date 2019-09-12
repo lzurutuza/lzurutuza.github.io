@@ -71,3 +71,14 @@ Show weather information of current location. This information is obtained from 
 
 ![Image](Cockpit_PRO_cfg.png)  
 In this screen you can configure the units: Metric or Imperial and activate _*SPEED ALERT*_. When speed alert is activated, Versa will vibrate and Speed numbers will change from green to RED color. 
+
+## COMPANION CONFIGURATION SCREEN (at Fitbit mobile app)
+
+![Image](Companion_screen.png)
+You can get this configuration screen at _FitBit mobile app, Versa -> My Apps -> Cockpit -> Settings Button_.  
+Here you can configure Screen Auto OFF (yes or not), Measurement Units (Metric or Imperial), Open Weather Map API KEY and Speed Alert.  
+
+## Openweathermap.org API KEY  
+API KEY is neccesary to get weather information from your current location. Cockpit has a default API KEY that can take up to 60 queries per hour. If this number is exceeded, the query will fail.
+Because of that, is recomended to obtain your own FREE API KEY from openweathermap.org.
+In this configuration screen you can paste your API KEY obtained from https://openweathermap.org/appid. You can sign in free to get your own API KEY and use with Cockpit.
