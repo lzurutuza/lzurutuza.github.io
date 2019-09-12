@@ -1,4 +1,4 @@
-## Cockpit APP for Fitbit
+# Cockpit APP for Fitbit
 
 With Cockpit application you can turns your Versa into a speedometer, odometer and digital compass with altimeter. 
 It also shows weather information according to the current location. You can get travel statistics such a average speed, maximum speed, elapsed time and maximum altitude. You can get up 2 partial distances measurements. 
@@ -9,7 +9,41 @@ Support Metric and Imperial system of measurement.
 
 [Cockpit App - Fitbit Link](https://gallery.fitbit.com/details/7bdad603-63fa-4cb1-924c-8035e23bb368)
 
-### Help
+# Help
+
+## COMMON BUTTONS and ICONS:
+
+All screens has 3 common buttons:
+
+![Image](Cockpit_PRO_speed.png)
+
+
+## MAIN SCREENS
+
+1. SPEED
 
  ![Image](Cockpit_PRO_speed.png)
 
+2. DISTANCE
+
+![Image](Cockpit_PRO_distance.png)
+
+3. COMPASS
+
+![Image](Cockpit_PRO_compass.png)
+
+4. ORIENTATION
+
+![Image](Cockpit_PRO_orientation.png)
+
+5. STATISTICS
+
+![Image](Cockpit_PRO_statistics.png)
+
+6. WEATHER
+
+![Image](Cockpit_PRO_weather.png)
+
+## CONFIGURATION SCREEN
+
+![Image](Cockpit_PRO_cfg.png)
