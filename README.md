@@ -32,7 +32,7 @@ STATUS GREEN represents OK and RED is not communication with GPS.
 
 >![Image](/images/btn_combo_reset_p.png)  Restart statistics counters.  
 
->![Image](/images/btn_reset2.png)  Update weather information with Current Location (only visible in weather screen).  
+>![Image](/images/btn_weather.png)  Update weather information with Current Location (only visible in weather screen).  
 
 >![Image](/images/icn_battery.PNG)  Shows current battery charge level.
 
