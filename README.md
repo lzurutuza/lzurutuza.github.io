@@ -7,12 +7,14 @@ It can be used as a backup navigation tool while riding a bike, running or hikin
 This app requires the companion GPS and internet access to update the weather information (openweathermap.org free suscription is required).
 Support Metric and Imperial system of measurement.
 
- ![Image](Preview.png)
-
->[Cockpit App - Fitbit Link](https://gallery.fitbit.com/details/7bdad603-63fa-4cb1-924c-8035e23bb368)
 <p align="center">
   <img src="https://lzurutuza.github.io/Preview.png">
 </p>
+
+<p align="center">
+>[Cockpit App - Fitbit Link](https://gallery.fitbit.com/details/7bdad603-63fa-4cb1-924c-8035e23bb368)
+</p>
+
 # TUTORIAL
 
 ## COMMON BUTTONS and ICONS:
