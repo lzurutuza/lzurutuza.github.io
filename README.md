@@ -47,38 +47,38 @@ You can RESET values for partial DISTANCE1 and partial DISTANCE2 by pressing the
 
 3. COMPASS
 
-![Image](Cockpit_PRO_Compass.png)  
-Show total time, altitud and cardinal points with degress.  
+>![Image](Cockpit_PRO_Compass.png)  
+Show total time, altitude and cardinal points with degress (these values are calculated according to the current movement).  
 
 4. ORIENTATION
 
-![Image](Cockpit_PRO_Orientation.png)  
-Show cardinal point and degress.
+>![Image](Cockpit_PRO_Orientation.png)  
+Show cardinal point and degress (these values are calculated according to the current movement).
 
 5. STATISTICS
 
-![Image](Cockpit_PRO_Statistics.png)  
-Show statistics information.
+>![Image](Cockpit_PRO_Statistics.png)  
+Show statistics information about the trip: Distance, Speed, Time and Altitude.
 
 6. WEATHER
 
-![Image](Cockpit_PRO_Weather.png)  
-Show weather information of current location. This information is obtained from OpenWeatherMap.org.
+>![Image](Cockpit_PRO_Weather.png)  
+Show weather information of current location (GPS location). This information is obtained from OpenWeatherMap.org.
 
 ## CONFIGURATION SCREEN
 
-![Image](Cockpit_PRO_cfg.png)  
-In this screen you can configure the units: Metric or Imperial and activate **_SPEED ALERT_**. When speed alert is activated, Versa will vibrate and Speed numbers will change from green to RED color. 
+>![Image](Cockpit_PRO_cfg.png)  
+In this screen you can configure the measurement units: Metric or Imperial and activate **_SPEED ALERT_**. When speed alert is activated, Versa will vibrate and speed numbers will change from green to RED color. 
 
 ## COMPANION CONFIGURATION SCREEN (at Fitbit mobile app)
 
-![Image](Companion_screen.png)  
+>![Image](Companion_screen.png)  
 You can get this configuration screen at _FitBit mobile app, Versa -> My Apps -> Cockpit -> Settings Button_.  
 Here you can configure Screen Auto OFF (yes or not), Measurement Units (Metric or Imperial), Open Weather Map API KEY and Speed Alert.  
 
-## Openweathermap.org API KEY  
-API KEY is neccesary to get weather information from your current location. Cockpit has a default API KEY that can take up to 60 queries per hour. If this number is exceeded, the query will fail.
+### Openweathermap.org API KEY  
+>API KEY is neccesary to get weather information from your current location. Cockpit has a default API KEY that can take up to 60 queries per hour. If this number is exceeded, the query will fail.
 Because of that, is recomended to obtain your own FREE API KEY from openweathermap.org.
 In this configuration screen you can paste your API KEY obtained from [https://openweathermap.org/appid](https://openweathermap.org/appid). You can sign in free to get your own API KEY and use with Cockpit.
 
-Luis Zurutuza. lzurutuza@gmail.com. 2019. [PayPal.Me/lzurutuza](PayPal.Me/lzurutuza)
+>Luis Zurutuza. lzurutuza@gmail.com. 2019. [PayPal.Me/lzurutuza](PayPal.Me/lzurutuza)
