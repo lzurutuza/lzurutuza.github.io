@@ -63,7 +63,8 @@ Show statistics information about the trip: Distance, Speed, Time and Altitude.
 6. WEATHER
 
 >![Image](Cockpit_PRO_Weather.png)  
-Show weather information of current location (GPS location). This information is obtained from OpenWeatherMap.org.
+Show weather information of current location (GPS location). The city name is obtained from this location. You can update this information using tue update button at the bottom ![Image](btn_reset2.png).
+Information obtained from [openweathermap.org](https://openweathermap.org/).
 
 ## CONFIGURATION SCREEN
 
