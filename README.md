@@ -21,14 +21,14 @@ Support Metric and Imperial system of measurement.
 
 All screens has 3 common buttons and one icon:  
 
->![Image](/images/Cockpit_PRO_speed.png)  
+>![Image](/images/Cockpit_PRO_Speed.png)  
 
 >![Image](/images/icn_status.png)  Icon Connection, represents the comunication between Versa and Companion GPS.
 STATUS GREEN represents OK and RED is not communication with GPS.  
 
 >![Image](/images/btn_combo_conf_p.png)  Access Configuration Screen.  
 
->![Image](/images/btn_pantallaOff.png)  Toggle screen Auto OFF ON / OFF.  
+>![Image](/images/btn_pantalla.png)  Toggle screen Auto OFF ON / OFF.  
 
 >![Image](/images/btn_combo_reset_p.png)  Restart statistics counters.  
 
