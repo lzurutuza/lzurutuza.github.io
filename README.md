@@ -10,7 +10,7 @@ Support Metric and Imperial system of measurement.
  -> ![Image](Preview.png) <-
 
 >[Cockpit App - Fitbit Link](https://gallery.fitbit.com/details/7bdad603-63fa-4cb1-924c-8035e23bb368)
-<img align="left" width="100" height="100" src="http://www.fillmurray.com/100/100">
+<img align="center" width="100" height="100" src="http://www.fillmurray.com/100/100">
 
 # TUTORIAL
 
