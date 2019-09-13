@@ -1,8 +1,4 @@
-<p align="left">
-   <img width="75" height="100" src="https://lzurutuza.github.io/iconFinal.png">
-</p>
-
-# ![Image](iconFinal.png) Cockpit APP for Fitbit  
+# ![Image](icon1.png) Cockpit APP for Fitbit  
 
 With Cockpit application you can turns your Versa into a speedometer, odometer and digital compass with altimeter. 
 It also shows weather information according to the current location. You can get travel statistics such a average speed, maximum speed, elapsed time and maximum altitude. You can get up 2 partial distances measurements. 
