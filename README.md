@@ -8,7 +8,7 @@ This app requires the companion GPS and internet access to update the weather in
 Support Metric and Imperial system of measurement.
 
 <p align="center">
-  <img src="https://lzurutuza.github.io/Preview.png" href="https://gallery.fitbit.com/details/7bdad603-63fa-4cb1-924c-8035e23bb368">
+  <img width="200" height="300" src="https://lzurutuza.github.io/Preview.png">
 </p>
 
 <p align="center">
