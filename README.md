@@ -38,34 +38,34 @@ STATUS GREEN represents OK and RED is not communication with GPS.
 
 ## MAIN SCREENS
 
- 1. SPEED  
+1- SPEED  
 
  >![Image](/images/Cockpit_speed.png)  
 You can RESET values for AVERAGE SPEED and MAX SPEED by pressing the left part of the screen (over the first number) for max speed and right (over the last number) for average speed. 
  
 
- 2. DISTANCE
+2- DISTANCE
 
 >![Image](/images/Cockpit_Distance.png)  
 You can RESET values for partial DISTANCE1 and partial DISTANCE2 by pressing the left part of the screen (over the first number) for max speed and right (over the last number) for average speed. Partial distance1 has 2 decimals and growth up to 99,99 km. Partial Distance2 has 3 decimals and growth up to 9,999 km. 
 
 
- 3. COMPASS
+3- COMPASS
 
 >![Image](/images/Cockpit_Compass.png)  
 Show total time, altitude and cardinal points with degress (these values are calculated according to the current movement).  
 
- 4. ORIENTATION
+4- ORIENTATION
 
 >![Image](/images/Cockpit_Orientation.png)  
 Show cardinal point and degress (these values are calculated according to the current movement).
 
- 5. STATISTICS
+5- STATISTICS
 
 >![Image](/images/Cockpit_Statistics.png)  
 Show statistics information about the trip: Distance, Speed, Time and Altitude.
 
- 6. WEATHER
+6- WEATHER
 
 >![Image](/images/Cockpit_Weather.png)  
 Show weather information of current location (GPS location). The city name is obtained from this location. You can update this information using tue update button at the bottom ![Image](btn_reset2.png).
