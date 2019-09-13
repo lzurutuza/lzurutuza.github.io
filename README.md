@@ -38,13 +38,13 @@ STATUS GREEN represents OK and RED is not communication with GPS.
 
 ## MAIN SCREENS
 
-1. SPEED  
+###1. SPEED  
 
  >![Image](/images/Cockpit_speed.png)  
 You can RESET values for AVERAGE SPEED and MAX SPEED by pressing the left part of the screen (over the first number) for max speed and right (over the last number) for average speed. 
  
 
-2. DISTANCE
+###2. DISTANCE
 
 >![Image](/images/Cockpit_Distance.png)  
 You can RESET values for partial DISTANCE1 and partial DISTANCE2 by pressing the left part of the screen (over the first number) for max speed and right (over the last number) for average speed. Partial distance1 has 2 decimals and growth up to 99,99 km. Partial Distance2 has 3 decimals and growth up to 9,999 km. 
