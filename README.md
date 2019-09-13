@@ -79,6 +79,6 @@ Here you can configure Screen Auto OFF (yes or not), Measurement Units (Metric o
 ### Openweathermap.org API KEY  
 >API KEY is neccesary to get weather information from your current location. Cockpit has a default API KEY that can take up to 60 queries per hour. If this number is exceeded, the query will fail.
 Because of that, is recomended to obtain your own FREE API KEY from openweathermap.org.
-In this configuration screen you can paste your API KEY obtained from [https://openweathermap.org/appid](https://openweathermap.org/appid). You can sign in free to get your own API KEY and use with Cockpit.
+In this configuration screen you can paste your API KEY obtained from [https://openweathermap.org/appid](https://openweathermap.org/appid). You can sign in free to get your own API KEY and use it with Cockpit.
 
 >Luis Zurutuza. lzurutuza@gmail.com. 2019. [PayPal.Me/lzurutuza](PayPal.Me/lzurutuza)
