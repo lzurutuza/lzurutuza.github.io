@@ -1,3 +1,6 @@
+<p align="left">
+   <img width="50" height="100" src="https://lzurutuza.github.io/iconFinal.png">
+</p>
 # ![Image](iconFinal.png) Cockpit APP for Fitbit  
 
 With Cockpit application you can turns your Versa into a speedometer, odometer and digital compass with altimeter. 
