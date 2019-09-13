@@ -12,7 +12,7 @@ Support Metric and Imperial system of measurement.
 </p>
 
 <p align="center">
->[Cockpit App - Fitbit Link](https://gallery.fitbit.com/details/7bdad603-63fa-4cb1-924c-8035e23bb368)
+<a href="https://gallery.fitbit.com/details/7bdad603-63fa-4cb1-924c-8035e23bb368">Cockpit App - Fitbit Link</a>
 </p>
 
 # TUTORIAL
