@@ -23,8 +23,8 @@ All screens has 3 common buttons and one icon:
 
 >![Image](/images/Cockpit_PRO_Speed.png)  
 
->![Image](/images/icn_status.png)  Icon Connection, represents the comunication between Versa and Companion GPS.
-STATUS GREEN represents OK and RED is not communication with GPS.  
+>![Image](/images/icn_status.png)  Connection Status button, represents the comunication between Versa and Companion GPS.
+STATUS GREEN represents OK, ORANGE indicates connecting to GPS and RED is not communication with GPS.  
 
 >![Image](/images/btn_combo_conf_p.png)  Access Configuration Screen.  
 
@@ -70,6 +70,12 @@ Show statistics information about the trip: Distance, Speed, Time and Altitude.
 >![Image](/images/Cockpit_Weather.png)  
 Show weather information of current location (GPS location). The city name is obtained from this location. You can update this information using tue update button at the bottom ![Image](btn_reset2.png).
 Information obtained from [openweathermap.org](https://openweathermap.org/).
+
+## GPS STATUS SCREEN
+
+>![Image](/images/Cockpit_loc.png)  
+In this screen you can view the status information about companion GPS. When the GPS location is acquired you can see the current latitude and longitude. Also you can get the street name, town/city, district, state and country based on current location. You can update this information with _Update_ button o return to main screen with _OK_ button.
+If the communication with GPS fails, you will see an error message and your Versa will vibrate.
 
 ## CONFIGURATION SCREEN
 
